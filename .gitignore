@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.out
+lab_system
+sesiones.dat

@@ -1,0 +1,5 @@
+202312890 * Andres Morales * Ingenieria Mecanica * 7
+202410345 * Laura Gomez * Ingenieria Electronica * 4
+202220118 * Camilo Rojas * Ingenieria Mecatronica * 8
+202510077 * Valentina Ruiz * Ciencia de Datos * 2
+202315562 * Juan Pablo Diaz * Ingenieria Industrial * 6

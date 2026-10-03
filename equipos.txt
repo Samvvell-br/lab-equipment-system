@@ -1,0 +1,8 @@
+101 * Osciloscopio Digital * Lab Electronica * Medicion * Disponible * 4500000 * 3 * Osciloscopio de 4 canales 100 MHz
+102 * Fuente DC Programable * Lab Electronica * Alimentacion * Disponible * 1800000 * 2 * Fuente 0-30V 5A con dos salidas
+103 * Generador de Senales * Lab Electronica * Medicion * Mantenimiento * 2200000 * 3 * Generador de funciones 20 MHz
+201 * Kit ROS Avanzado * Lab Robotica * Robotica * Disponible * 12000000 * 6 * Robot movil con LIDAR y ROS2
+202 * Brazo Robotico 6DOF * Lab Robotica * Robotica * Disponible * 9500000 * 5 * Brazo industrial didactico de 6 ejes
+301 * Impresora 3D Prusa * Lab Manufactura * Fabricacion * Disponible * 8500000 * 6 * Alta precision
+302 * Cortadora Laser CO2 * Lab Manufactura * Fabricacion * En uso * 15000000 * 7 * Area de corte 60x40 cm
+401 * Pendulo de Torsion * Lab Fisica * Mecanica * Disponible * 950000 * 1 * Montaje para medir momento de inercia
